@@ -1,0 +1,14 @@
+
+//ftp account
+host: www.rac24.com
+user: racvva_24
+password: JwAHXSGhc9GqqqU3
+
+//database
+database_name:vieva2021new
+database_user: racvva_1
+host:sql373.your-server.de
+password : AyFf6MruL4yLpaMY
+
+//domain
+www.vieva24.com/public
